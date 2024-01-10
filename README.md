@@ -4,8 +4,8 @@
 
 01/09/2024:
 
-- 🟢 [Sup] key added in raise layer 
-- 🟢 [BT Clr] Position moved
+- 🟢 [DEL] Key added in raise layer 
+- 🟢 [BT CLR] Position moved
 
 
 ## Keys definitions
@@ -15,7 +15,13 @@
 
 ## Keyboard distribution
 ![alt text](/media/my_keymap.png "keymap")
-https://keymap-drawer.streamlit.app/?zmk_url=https%3A%2F%2Fgithub.com%2Fjagel%2Fkeyboard-corne%2Fblob%2Fmaster%2Fconfig%2Fcorne.keymap
 
-> Image generaded by keymap-drawer:
-> https://keymap-drawer.streamlit.app/
+
+> Image generaded with [@keymap-drawer](https://keymap-drawer.streamlit.app)
+
+
+## How to set keyboard in bootloader
+
+1. Connect keyboard by usb.
+2. Double click on reset button.
+3. Copy and paste ``.uf2`` generated as artifact
