@@ -24,4 +24,4 @@
 
 1. Connect keyboard by usb.
 2. Double click on reset button.
-3. Copy and paste ``.uf2`` generated as artifact
+3. Drag and drop ``.uf2`` file generated into usb drive.
